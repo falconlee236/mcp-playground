@@ -154,7 +154,7 @@ class MCPClient:
 
 async def main():
     if len(sys.argv) < 2:
-        print("Usage: uv run client.py <URL of SSE MCP server (i.e. http://localhost:8080/sse)>")
+        print("Usage: uv run client.py <URL of SSE MCP server (i.e. http://localhost:8000/sse)>")
         sys.exit(1)
 
     client = MCPClient()
