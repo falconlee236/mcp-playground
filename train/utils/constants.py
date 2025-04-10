@@ -1,0 +1,4 @@
+OPEN_DATA_API_BASE = "http://apis.data.go.kr/1613000/TrainInfoService"
+OPEN_DATA_API_KEY = "lyhNX/jkVqD92gADGwKRJvY3cYP4c6oy8XEmbLOCWzkFAv5SQZ7+RXtVQP3/yBzzaTHl9W8a99gogUwhKIhR2A=="
+USER_AGENT = "train-app/1.0"
+DEFAULT_TIMEOUT = 3.0
